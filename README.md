@@ -16,7 +16,7 @@ I've been programming since the beginning of 2026, and I started by learning Pyt
 
 
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at
+* ✉️  You can contact me at "-"
                                   <a href="mailto:Chernikov.elias@gmail.com" target="_blank">
                                       <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-922b3e?style=flat&logo=gmail&logoColor=ffffff">
                                   </a>
