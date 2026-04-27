@@ -6,7 +6,6 @@ Python developer
 
 I've been programming since the beginning of 2026, and I started by learning Python. I also managed to study PostgreSQL, the basics of OOP, and began to study algorithms and data structures.
 
-I plan to study C++ in the future.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [Chernikov.elias@gmail.com](mailto:Chernikov.elias@gmail.com)
