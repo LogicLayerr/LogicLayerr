@@ -19,7 +19,7 @@ I've been programming since the beginning of 2026, and I started by learning Pyt
 * ✉️  You can contact me at [Chernikov.elias@gmail.com](mailto:Chernikov.elias@gmail.com)
 * 🧠  I'm currently learning algorithms and data structures, C++
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
