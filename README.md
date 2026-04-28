@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python developer
 ----------------
 
-I've been programming since the beginning of 2025, and I started by learning Python. I also managed to study PostgreSQL, the basics of OOP, and began to study algorithms and data structures.
+I've been programming since the beginning of 2025, and I started by learning Python. I also managed to study SQL, the basics of OOP, and began to study algorithms and data structures.
 
 
 * 🌍  I'm based in Russia
